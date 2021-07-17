@@ -1,4 +1,4 @@
-package com.example.flixster;
+ package com.example.flixster;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
